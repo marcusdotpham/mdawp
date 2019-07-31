@@ -1,13 +1,7 @@
 ---
-title: 'Pandas Made Easy: Overview on Data'
-description: >-
-  Pandas provide some very handy property, function help us to understand high
-  level of data set.
-date: '2019-06-21T01:42:37.712Z'
-categories: []
-keywords: []
-slug: /@phamtan500/pandas-made-easy-overview-on-data-7de4bdb955f5
+layout: default
 ---
+
 
 ![](https://cdn-images-1.medium.com/max/2560/1*DBUfEEyPFfGXaEwhctEOjA.jpeg)
 
