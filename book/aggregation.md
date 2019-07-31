@@ -1,4 +1,7 @@
 ---
+layout
+---
+---
 title: 'Pandas Made Easy: Aggregation'
 description: >-
   Aggregation is process of convert a list or series of values in to a single
