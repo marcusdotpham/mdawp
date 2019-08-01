@@ -81,11 +81,3 @@ Above example show that the way we select rows are the same for **_.loc_** and�
 But you should remember that the panda's **_label_** could be reassigned and not use default system with \[0,1,2 …\] and at that time, **_label_** and **_position_** on rows are different.
 
 ### That it
-
-Hope you enjoyed and had fun. I have a series on pandas and will be publishing it soon. If you want to be notify, you could follow me.
-
-[**_Full course on master data sciences_**](https://www.masterdatasciences.com/)
-
-Other post in my series**_:_**
-
-[**_Pandas Made Easy: groupby_**](https://medium.com/@phamtan500/pandas-made-easy-groupby-65e4e3c26a6)

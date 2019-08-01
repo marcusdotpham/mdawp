@@ -33,5 +33,3 @@ For the final step, use `groupby` on `customer_id` then `sum` on `amount` column
 ![](https://cdn-images-1.medium.com/max/800/1*8dk6O1qvGQSlkLMVlyAy6Q.png)
 
 ### That’s it
-
-Above we just learned about pandas `merge` with one example. Any comment or discuss, please put below.

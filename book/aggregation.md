@@ -33,4 +33,4 @@ Easy to know that we will use `min()`, `max()`, and `mean()` function
 
 ### That’s it
 
-We now know the basic aggregation functions of Python. If you have any discussion or comments, please put them below.
+We now know the basic aggregation functions of Python.

@@ -53,7 +53,3 @@ The above data could be load with `read_html()`  function
 ![](https://cdn-images-1.medium.com/max/800/1*7mAGs57Sw5Qc7DRJYUWrMA.jpeg)
 
 ### That’s it
-
-Hope you have a clear view on loading data from an external file into pandas data frame. Any comment or discussion, please put below.
-
-[full course on master data sciences](https://www.masterdatasciences.com/)

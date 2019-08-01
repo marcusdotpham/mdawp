@@ -50,5 +50,3 @@ On columns where the type is a number, data frames have a function called `descr
 ![](https://cdn-images-1.medium.com/max/800/1*r6SkPeZsT6-OKW0oOox_yQ.png)
 
 ### That’s it
-
-Hope you are clear on how to use properties and functions to provide an overview of the data in a table. Any comments or questions, please put below.

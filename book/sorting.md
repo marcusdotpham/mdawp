@@ -25,5 +25,3 @@ Now, how do I the most recent film, and then I care about `imdb_score` later.
 ![](https://cdn-images-1.medium.com/max/800/1*zxy3G9Ok66S3ysos6bikEw.png)
 
 ### That’s it
-
-Hope you are clear on how to using sort in pandas. Leave any comment or question below.

@@ -98,12 +98,4 @@ So below code will using apply function to convert data from float data type to 
 
 ### That it
 
-We already go through some common task when doing clean data set. Any question or idea, please comment below.
-
-[Full course on master data sciences](https://www.masterdatasciences.com/)
-
-Other post in my series **_Pandas made easy :_**
-
-[Pandas made easy : selecting data](https://medium.com/@phamtan500/pandas-made-easy-selecting-data-5aa7f1a2999b)
-
-[Pandas made easy : groupby](https://medium.com/@phamtan500/pandas-made-easy-groupby-65e4e3c26a6)
+We already go through some common task when doing clean data set.

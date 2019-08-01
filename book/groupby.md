@@ -48,12 +48,3 @@ df\_imdb.groupby('director\_name').sum().sort\_values('movie\_facebook\_likes', 
 ### That it
 
 Hope you have some fun time with pandas `groupby()`  function, one of very powerful tool.
-
-[**_Full course on master data sciences_**](https://www.masterdatasciences.com/)
-
-Other post in my series **_Pandas made easy :_**
-
-[**_Pandas Made Easy: Selecting Data_**](https://medium.com/@phamtan500/pandas-made-easy-selecting-data-5aa7f1a2999b)
-
-[**Learn Python - Best Python Tutorials (2019) | gitconnected**  
-_The top 80 Python tutorials - learn Python for free. Courses are submitted and voted on by developers, enabling you to…_gitconnected.com](https://gitconnected.com/learn/python "https://gitconnected.com/learn/python")[](https://gitconnected.com/learn/python)

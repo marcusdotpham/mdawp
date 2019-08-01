@@ -27,5 +27,3 @@ We will create a small function to remove “[http://www.imdb.com/title/](http:/
 ### That’s it
 
 The `apply()`  function means it will execute an external function to all values in a specific column.
-
-Any comments or discussion, please add below.

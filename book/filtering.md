@@ -55,5 +55,3 @@ Just put `sum()` on result of `apply()`  we will have result needed.
 ![](https://cdn-images-1.medium.com/max/800/1*wOzEou-wp6WdBL55dkPHQw.png)
 
 ### that’s it
-
-Hope you clear and understand how to filter data with pandas. Have any discuss or comment, please comment below.
