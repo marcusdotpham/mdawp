@@ -1,12 +1,5 @@
 ---
-title: 'Pandas made super easy, cleanup data'
-description: >-
-  With data analysis or machine learning project, cleanup and preparing data
-  could take a lot of time. This article want to show you how to…
-date: '2019-06-19T14:27:13.944Z'
-categories: []
-keywords: []
-slug: /@phamtan500/pandas-made-super-easy-cleanup-data-220bb769e606
+layout: default
 ---
 
 ![](https://cdn-images-1.medium.com/max/1200/1*wY7lFOA5FQQfuaR2JRip-A.jpeg)

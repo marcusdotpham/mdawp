@@ -1,12 +1,5 @@
 ---
-title: 'Pandas Made Easy: Filtering'
-description: >-
-  With data analysis, filtering data is crucial task. This post will help you
-  understand how to do filtering with pandas.
-date: '2019-06-22T04:02:02.909Z'
-categories: []
-keywords: []
-slug: /@phamtan500/pandas-made-easy-understand-filtering-9c64210c93af
+layout: default
 ---
 
 ![](https://cdn-images-1.medium.com/max/800/1*GpDCH_Ba6I-C3MXG18ikRQ.jpeg)

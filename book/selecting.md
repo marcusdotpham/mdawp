@@ -1,13 +1,7 @@
 ---
-title: 'Pandas Made Easy: Selecting Data'
-description: >-
-  Select subset of data while do data analysis with pandas is essential skill
-  which you should master before move on to other things. In…
-date: '2019-06-08T18:20:31.270Z'
-categories: []
-keywords: []
-slug: /@phamtan500/pandas-made-easy-selecting-data-5aa7f1a2999b
+layout: default
 ---
+
 
 ![](https://cdn-images-1.medium.com/max/800/1*mcUE5DxuN2FngrJlXK6CHA.jpeg)
 

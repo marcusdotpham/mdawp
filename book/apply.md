@@ -1,12 +1,5 @@
 ---
-title: 'Pandas Made Easy: Apply'
-description: >-
-  apply() normally is used to make some change on column. Let load some data for
-  our demo. This is movie data contain 3 columns…
-date: '2019-06-22T16:10:03.717Z'
-categories: []
-keywords: []
-slug: /@phamtan500/pandas-made-easy-apply-4f5fb6e308c1
+layout: default
 ---
 
 ![](https://cdn-images-1.medium.com/max/1200/1*vInvi6XGnRRsmPM7RjXcVw.jpeg)

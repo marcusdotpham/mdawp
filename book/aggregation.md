@@ -1,13 +1,7 @@
 ---
-title: 'Pandas Made Easy: Aggregation'
-description: >-
-  Aggregation is process of convert a list or series of values in to a single
-  value.
-date: '2019-06-22T09:00:33.847Z'
-categories: []
-keywords: []
-slug: /@phamtan500/pandas-made-easy-aggregation-330a962eae7d
+layout: default
 ---
+
 
 ![](https://cdn-images-1.medium.com/max/1200/1*QI2iTWNPA1ZU-yRtCKm1Pw.jpeg)
 

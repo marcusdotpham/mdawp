@@ -1,13 +1,7 @@
 ---
-title: 'Pandas Made Easy: Merge'
-description: >-
-  Merge in pandas basically mean combine data from 2 data tables to create a new
-  table which could solve the problem.
-date: '2019-06-23T14:03:17.919Z'
-categories: []
-keywords: []
-slug: /@phamtan500/pandas-made-easy-merge-a9871de30cca
+layout: default
 ---
+
 
 ![](https://cdn-images-1.medium.com/max/800/1*bJAfxV4qB-R6ajA8GdSKQA.jpeg)
 

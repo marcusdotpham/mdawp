@@ -1,12 +1,5 @@
 ---
-title: 'master pandas step by step : explore google apps store'
-description: >-
-  In this post we will use pandas to explore google apps store data. Let start
-  with loading some data.
-date: ''
-categories: []
-keywords: []
-slug: ''
+layout: default
 ---
 
 ![](https://cdn-images-1.medium.com/max/2560/1*uBfcE86cZsVziyPZRcakmQ.jpeg)

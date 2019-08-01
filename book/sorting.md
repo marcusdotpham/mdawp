@@ -1,12 +1,5 @@
 ---
-title: 'Pandas Made Easy: Sorting'
-description: >-
-  Sorting is very important when working with data table, this post want to show
-  you how sorting work in pandas.
-date: '2019-06-21T03:08:47.936Z'
-categories: []
-keywords: []
-slug: /@phamtan500/pandas-made-easy-understand-sorting-9f4b2b771fd
+layout: default
 ---
 
 ![](https://cdn-images-1.medium.com/max/2560/1*K1z-tfWyMk1CPRE_TO7tuw.jpeg)

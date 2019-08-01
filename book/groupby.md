@@ -1,12 +1,5 @@
 ---
-title: "Pandas made easy\_: groupby"
-description: >-
-  Groupby is one of several thing very powerful in pandas. Using groupby() with
-  just one function, we could have answer for a fairly…
-date: '2019-06-10T14:05:35.879Z'
-categories: []
-keywords: []
-slug: /@phamtan500/pandas-made-easy-groupby-65e4e3c26a6
+layout: default
 ---
 
 `groupby` is one of several powerful functions in pandas. Using `groupby()`  with just one function, we could have answer for a fairly complicated question.

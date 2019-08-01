@@ -1,13 +1,7 @@
 ---
-title: "master pandas step by step\_: time series"
-description: >-
-  Pandas provide great tool to working with time series data. Time series data
-  is data which have time related to it. Example of time series…
-date: '2019-07-07T14:40:57.176Z'
-categories: []
-keywords: []
-slug: /@phamtan500/master-pandas-step-by-step-time-series-7aa4d26dd151
+layout: default
 ---
+
 
 ![Photo by [Andrey Grushnikov](https://www.pexels.com/@andrey-grushnikov-223358?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) from [Pexels](https://www.pexels.com/photo/black-and-white-photo-of-clocks-707676/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)](https://cdn-images-1.medium.com/max/1200/1*cmzldMcPVT2TQyIFUc2nmQ.jpeg)
 Photo by [Andrey Grushnikov](https://www.pexels.com/@andrey-grushnikov-223358?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) from [Pexels](https://www.pexels.com/photo/black-and-white-photo-of-clocks-707676/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)

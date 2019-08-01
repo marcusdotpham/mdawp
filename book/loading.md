@@ -1,11 +1,7 @@
 ---
-title: 'Pandas Made Easy: Loading Data'
-description: Loading different file types as data into Python
-date: '2019-05-24T17:18:20.687Z'
-categories: []
-keywords: []
-slug: /@phamtan500/loading-data-fe32e2e8e614
+layout: default
 ---
+
 
 ![](https://cdn-images-1.medium.com/max/1200/1*ENlg3jR5TQ6PBnOE_IFABg.jpeg)
 
@@ -21,8 +17,10 @@ A csv uses commas to separate data between columns.
 
 To load data from a csv, pandas provide function called `read_csv()`_,_ this function requires to put in the path to the csv file
 
-df\_csv = pd.read\_csv('./data/IMDB\_Movie\_3columns.csv')  
-df\_csv.head()
+```python
+df_csv = pd.read_csv('./data/IMDB/Movie/3columns.csv')  
+df_csv.head()
+```
 
 then we will have below result
 
